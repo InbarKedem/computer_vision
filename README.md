@@ -2,15 +2,15 @@
 
 tasks to complete:
 
-# data loader
+data loader
 
-# split data to training, validation and test 60%, 20%, 20%
-# scipy split dataset
+split data to training, validation and test 60%, 20%, 20%
+scipy split dataset
 
-# data preperation, define augmentation
+data preperation, define augmentation
 
-# train model
+train model
 
-# save model
+save model
 
-# test model
+test model
